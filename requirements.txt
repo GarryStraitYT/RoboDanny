@@ -10,3 +10,4 @@ lru_dict
 python-dateutil
 pygit2
 mmh3
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
